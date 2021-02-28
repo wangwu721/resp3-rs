@@ -1,2 +1,2 @@
 # resp3-rs
-RESP3 protocol library in Rust
+Rust implementation of RESP3 protocol
